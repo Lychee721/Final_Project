@@ -1,0 +1,49 @@
+C:/Users/86182/Desktop/lab/lab12/top.v {1 {vlog -work work -vopt -stats=none C:/Users/86182/Desktop/lab/lab12/top.v
+** Note: (vlog-1901) OptionFile "D:/VHDL.JPF/high_speed_uart/project/vlog.opt" not found. Ignored.
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/86182/Desktop/lab/lab12/ID_Stage.v {1 {vlog -work work -vopt -stats=none C:/Users/86182/Desktop/lab/lab12/ID_Stage.v
+** Note: (vlog-1901) OptionFile "D:/VHDL.JPF/high_speed_uart/project/vlog.opt" not found. Ignored.
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ID_Stage
+
+Top level modules:
+	ID_Stage
+
+} {} {}} C:/Users/86182/Desktop/lab/lab12/WB_Stage.v {1 {vlog -work work -vopt -stats=none C:/Users/86182/Desktop/lab/lab12/WB_Stage.v
+** Note: (vlog-1901) OptionFile "D:/VHDL.JPF/high_speed_uart/project/vlog.opt" not found. Ignored.
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module WB_Stage
+
+Top level modules:
+	WB_Stage
+
+} {} {}} C:/Users/86182/Desktop/lab/lab12/top_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/86182/Desktop/lab/lab12/top_tb.v
+** Note: (vlog-1901) OptionFile "D:/VHDL.JPF/high_speed_uart/project/vlog.opt" not found. Ignored.
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Pipeline_CPU_tb
+
+Top level modules:
+	Pipeline_CPU_tb
+
+} {} {}} C:/Users/86182/Desktop/lab/lab12/MEM_Stage.v {1 {vlog -work work -vopt -stats=none C:/Users/86182/Desktop/lab/lab12/MEM_Stage.v
+** Note: (vlog-1901) OptionFile "D:/VHDL.JPF/high_speed_uart/project/vlog.opt" not found. Ignored.
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MEM_Stage
+
+Top level modules:
+	MEM_Stage
+
+} {} {}} C:/Users/86182/Desktop/lab/lab12/IF_Stage.v {1 {vlog -work work -vopt -stats=none C:/Users/86182/Desktop/lab/lab12/IF_Stage.v
+** Note: (vlog-1901) OptionFile "D:/VHDL.JPF/high_speed_uart/project/vlog.opt" not found. Ignored.
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module IF_Stage
+
+Top level modules:
+	IF_Stage
+
+} {} {}}

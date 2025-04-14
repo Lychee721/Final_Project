@@ -1,0 +1,156 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/questasim64_10.6c/examples
+vEX_Stage
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 SHYj>PGoK[:>IRfiJk?Yl3
+IzHlNN?FhV9j95f[U:cb3_2
+Z1 dC:/Users/86182/Desktop/lab/lab12/modelsim
+w1744639676
+8C:/Users/86182/Desktop/lab/lab12/EX_Stage.v
+FC:/Users/86182/Desktop/lab/lab12/EX_Stage.v
+L0 1
+Z2 OL;L;10.6c;65
+Z3 !s108 1744639926.000000
+!s107 C:/Users/86182/Desktop/lab/lab12/EX_Stage.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86182/Desktop/lab/lab12/EX_Stage.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+n@e@x_@stage
+vID_Stage
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;P[dmP9o1^Uh8LJo1coI<1
+I==oO<bkoC>9GH3PP7iD>j1
+R1
+w1744638159
+8C:/Users/86182/Desktop/lab/lab12/ID_Stage.v
+FC:/Users/86182/Desktop/lab/lab12/ID_Stage.v
+L0 1
+R2
+R3
+!s107 C:/Users/86182/Desktop/lab/lab12/ID_Stage.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86182/Desktop/lab/lab12/ID_Stage.v|
+!i113 0
+R4
+R5
+n@i@d_@stage
+vIF_Stage
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 EK`XVTVWZnb3neDPY6kL43
+ID^n048dEPSLU^2g8XZ3UB0
+R1
+w1744535197
+8C:/Users/86182/Desktop/lab/lab12/IF_Stage.v
+FC:/Users/86182/Desktop/lab/lab12/IF_Stage.v
+L0 1
+R2
+R3
+!s107 C:/Users/86182/Desktop/lab/lab12/IF_Stage.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86182/Desktop/lab/lab12/IF_Stage.v|
+!i113 0
+R4
+R5
+n@i@f_@stage
+vMEM_Stage
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 6[oniLFDXA=>0HlK^HK_83
+IASAn:5@5R;=?HdMBi@cNH3
+R1
+w1744639492
+8C:/Users/86182/Desktop/lab/lab12/MEM_Stage.v
+FC:/Users/86182/Desktop/lab/lab12/MEM_Stage.v
+L0 1
+R2
+R3
+!s107 C:/Users/86182/Desktop/lab/lab12/MEM_Stage.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86182/Desktop/lab/lab12/MEM_Stage.v|
+!i113 0
+R4
+R5
+n@m@e@m_@stage
+vPipeline_CPU_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 8^6QF>E7W5>Io?z_5CXmC0
+I:O9nFo5bbgXc3VigFk4gT1
+R1
+w1744537325
+8C:/Users/86182/Desktop/lab/lab12/top_tb.v
+FC:/Users/86182/Desktop/lab/lab12/top_tb.v
+L0 4
+R2
+R3
+!s107 C:/Users/86182/Desktop/lab/lab12/top_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86182/Desktop/lab/lab12/top_tb.v|
+!i113 0
+R4
+R5
+n@pipeline_@c@p@u_tb
+vtop
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 P;a^=i67=1j_GHmI6CXh10
+IMLQ1;TPXPmjaok82e]alg0
+R1
+w1744537838
+8C:/Users/86182/Desktop/lab/lab12/top.v
+FC:/Users/86182/Desktop/lab/lab12/top.v
+L0 1
+R2
+R3
+!s107 C:/Users/86182/Desktop/lab/lab12/top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86182/Desktop/lab/lab12/top.v|
+!i113 0
+R4
+R5
+vWB_Stage
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 NDKMNG]S^N44czeA7MRg:2
+I]:VR^Fz;j<U5eoaKC]eOO0
+R1
+w1744532551
+8C:/Users/86182/Desktop/lab/lab12/WB_Stage.v
+FC:/Users/86182/Desktop/lab/lab12/WB_Stage.v
+L0 1
+R2
+R3
+!s107 C:/Users/86182/Desktop/lab/lab12/WB_Stage.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86182/Desktop/lab/lab12/WB_Stage.v|
+!i113 0
+R4
+R5
+n@w@b_@stage
